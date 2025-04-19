@@ -8,6 +8,6 @@ import java.util.List;
 
 @AllArgsConstructor
 @RestController
-
 public class SkillApiController {
+
 }
